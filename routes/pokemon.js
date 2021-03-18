@@ -59,9 +59,4 @@ pokemonRouter.route('/api/')
 
 
 
-
-
-
-
-
 module.exports = pokemonRouter;
